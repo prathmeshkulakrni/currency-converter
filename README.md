@@ -13,7 +13,7 @@ A real-time currency converter web app that fetches live exchange rates and conv
 - ✅ Responsive design (mobile + desktop)
 - ✅ Clean, modern UI
 - ✅ Instant conversion results
-- ✅ Copy converted amount
+  
 
 ## 🛠️ Tech Stack
 
